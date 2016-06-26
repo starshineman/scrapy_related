@@ -1,0 +1,13 @@
+[s] Available Scrapy objects:
+[s]   crawler    <scrapy.crawler.Crawler object at 0x7fa76d7d6c10>
+[s]   item       {}
+[s]   request    <GET http://www.dmoz.org/Computers/Programming/Languages/Python/Books/%20%20>
+[s]   response   <404 http://www.dmoz.org/Computers/Programming/Languages/Python/Books/%20%20>
+[s]   settings   <scrapy.settings.Settings object at 0x7fa76d7d6c90>
+[s]   spider     <DefaultSpider 'default' at 0x7fa76cad1f10>
+[s] Useful shortcuts:
+[s]   shelp()           Shell help (print this help)
+[s]   fetch(req_or_url) Fetch request (or URL) and update local objects
+[s]   view(response)    View response in a browser
+[0;32mIn [[1;32m1[0;32m]: [0m
+Do you really want to exit ([y]/n)? 
